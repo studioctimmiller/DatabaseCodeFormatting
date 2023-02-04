@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Format_DB_Objects/1.0.0": {
+        "runtime": {
+          "Format_DB_Objects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Format_DB_Objects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

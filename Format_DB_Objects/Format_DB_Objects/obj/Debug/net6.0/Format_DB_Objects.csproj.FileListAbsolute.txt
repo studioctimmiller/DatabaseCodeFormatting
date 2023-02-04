@@ -1,0 +1,15 @@
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\bin\Debug\net6.0\Format_DB_Objects.exe
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\bin\Debug\net6.0\Format_DB_Objects.deps.json
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\bin\Debug\net6.0\Format_DB_Objects.runtimeconfig.json
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\bin\Debug\net6.0\Format_DB_Objects.dll
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\bin\Debug\net6.0\Format_DB_Objects.pdb
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\obj\Debug\net6.0\Format_DB_Objects.csproj.AssemblyReference.cache
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\obj\Debug\net6.0\Format_DB_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\obj\Debug\net6.0\Format_DB_Objects.AssemblyInfoInputs.cache
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\obj\Debug\net6.0\Format_DB_Objects.AssemblyInfo.cs
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\obj\Debug\net6.0\Format_DB_Objects.csproj.CoreCompileInputs.cache
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\obj\Debug\net6.0\Format_DB_Objects.dll
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\obj\Debug\net6.0\refint\Format_DB_Objects.dll
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\obj\Debug\net6.0\Format_DB_Objects.pdb
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\obj\Debug\net6.0\Format_DB_Objects.genruntimeconfig.cache
+C:\Users\timmi\source\repos\Format_DB_Objects\Format_DB_Objects\obj\Debug\net6.0\ref\Format_DB_Objects.dll
