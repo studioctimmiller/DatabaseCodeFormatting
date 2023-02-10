@@ -15,6 +15,6 @@ namespace WordsToUpperCase
             "BIGINT","CITEXT","INTEGER","INT","DATE","DEFAULT","pg_default"," TO ","BOOL","BOOLEAN","RETURN",
             "NEXTVAL","PUBLIC","JSON_AGG","ROW_TO_JSON","interaction","JSON_TO_RECORDSET"," AS ","create_bl_interval",
             "json1","json2","json3","json4","json5","bl_interval","InteractionTypeIds","Deleted","Created","ftdate",
-            "interaction_date"};
+            "interaction_date","deletebadges","createbadges"};
     }
 }

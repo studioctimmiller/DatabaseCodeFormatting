@@ -1,8 +1,8 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.4.33205.214
-MinimumVisualStudioVersion = 10.0.40219.1
+
+Microsoft Visual Studio SolutiON File, Format VersiON 12.00
+# Visual Studio VersiON 17
+VisualStudioVersiON = 17.4.33205.214
+MinimumVisualStudioVersiON = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Format_DB_Objects", "Format_DB_Objects\Format_DB_Objects.csproj", "{8874BF8E-1B03-43B6-A13D-CD040EC577AB}"
 EndProject
 Global
