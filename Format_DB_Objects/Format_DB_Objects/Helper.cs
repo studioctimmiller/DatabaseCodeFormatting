@@ -22,7 +22,7 @@ namespace Format_DB_Objects
             }
             else
             {
-                files[0] = fileName;
+                files.Add(fileName);
             }
             foreach (var file in files)
             {
@@ -39,11 +39,7 @@ namespace Format_DB_Objects
                     {
                         foreach (var word in Formatting.Words)
                         {
-                            if (line.Contains("interaction", StringComparison.OrdinalIgnoreCase))
-                            {
-                                var stop = true;
-                            }
-                            if (word == "interaction")
+                            if(word=="create_date")
                             {
                                 var stop = true;
                             }
@@ -68,7 +64,7 @@ namespace Format_DB_Objects
             ProcessStartInfo ProcessInfo;
             Process Process;
 
-            if(File.Exists(command)) 
+            if (File.Exists(command))
             {
                 var stop = true;
             }
